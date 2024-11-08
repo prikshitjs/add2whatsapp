@@ -190,6 +190,10 @@ main
     {
         width: 270px;
     }
+    .tracker
+    {
+        display: none; 
+    }
 }
 @media only screen and (max-width:340px) {
     .input_section input
